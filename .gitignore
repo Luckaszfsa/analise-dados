@@ -3,9 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-planilhas/
-material de apoio/
-exercicios/
+.planilhas/
+.material de apoio/
+.exercicios/
 *.bd
 *.csv
 
